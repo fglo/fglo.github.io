@@ -1,0 +1,36 @@
+body {
+    background: #00AFBD;
+}
+
+.box {
+  position: absolute; 
+  top: 50%;
+  left: 50%; 
+  transform: translate(-50%, -50%);
+  padding: 16px;
+  transition: all 0.5s ease-in-out;
+}
+.box.box-dark {
+  background: #282939; 
+  overflow: hidden;
+  box-shadow: 5px -4px 0px 0px #03929D;
+}
+.box.box-menu {
+  margin-top: 114px;
+  transition: 0s;
+}
+
+.text {
+  font-size: 144px; 
+  font-family: Bodoni MT; 
+  line-height: .7; 
+  color: #E1E1E1; 
+  user-select: none;
+}
+.text.text-small {
+  font-size: 32px;
+  margin: 64px 0 0 0;
+}
+.text.text-dark {
+  color: #282939; 
+}
