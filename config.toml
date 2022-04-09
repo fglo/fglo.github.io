@@ -1,4 +1,4 @@
-baseurl      = "/"
+baseurl      = "https://fglo.github.io/"
 title        = "fglo"
 languageCode = "en-us"
 theme = "hello-friend-ng"
