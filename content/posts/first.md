@@ -1,15 +1,19 @@
 ---
+title: First!
+date: 2022-04-09
 author:
   name: "Filip Głowacki"
-date: 2022-04-09
 linktitle: First!
 type:
 - post
 - posts
-title: First!
 weight: 10
 series:
-- Gettinh started 
+- Getting started
+categories:
+- Getting started
+tags:
+- Getting started
 ---
 
-Yet another software developer's blog.
+Yet another software engineering blog.

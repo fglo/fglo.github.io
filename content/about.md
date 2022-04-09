@@ -6,5 +6,9 @@ aliases = ["about-us","about-fglo","contact"]
   name = "Filip Głowacki"
 +++
 
-`email:` me@fglo.pl
-`github:` github.com/fglo
+Yet another software engineering blog.
+
+`e-mail:` me@fglo.pl
+
+`github:` [github.com/fglo](https://github.com/fglo)
+
