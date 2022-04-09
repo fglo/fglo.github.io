@@ -2,13 +2,14 @@
 author:
   name: "Filip Głowacki"
 date: 2022-04-09
-linktitle: Creating a New Theme
+linktitle: First!
 type:
 - post
 - posts
-title: First test post
-subtitle: Test subtitle posts
+title: First!
 weight: 10
 series:
-- Hugo 101
+- Gettinh started 
 ---
+
+Yet another software developer's blog.
