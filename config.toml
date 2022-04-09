@@ -25,7 +25,7 @@ buildExpired = false
 canonifyURLs = true
 
 enableRobotsTXT = true
-enableGitInfo   = true
+enableGitInfo   = false
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
 disableRSS     = false
@@ -68,7 +68,7 @@ disableHugoGeneratorInject = false
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
-  gitUrl = "https://github.com/fglo/fglo.github.io/"
+  # gitUrl = "https://github.com/fglo/fglo.github.io/"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   #
@@ -88,7 +88,7 @@ disableHugoGeneratorInject = false
   # generate the buttons here: https://sharingbuttons.io
   # and add them into your own `layouts/partials/sharing-buttons.html`
   #
-  enableSharingButtons = true
+  # enableSharingButtons = true
 
   # Global language menu
   #
