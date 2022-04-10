@@ -1,12 +1,16 @@
-+++
-title = "About"
-date = "2022-04-09"
-aliases = ["about-us","about-fglo","contact"]
-[ author ]
-  name = "Filip Głowacki"
-+++
+---
+title: O mnie
+date: 2022-04-10
+author:
+  name: "Filip Głowacki"
+aliases:
+- about
+- about-fglo
+- contact
+- o-mnie
+---
 
-Yet another software engineering blog.
+Kolejny blog w internecie. 
 
 `e-mail:` me@fglo.pl
 

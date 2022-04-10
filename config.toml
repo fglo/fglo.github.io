@@ -1,7 +1,8 @@
 baseurl      = "https://fglo.github.io/"
 title        = "fglo"
-languageCode = "en"
-theme = "hello-friend-ng"
+languageCode = "pl-PL"
+defaultContentLanguage = 'pl'
+# theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
@@ -118,7 +119,7 @@ disableHugoGeneratorInject = false
     topText = []
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+      "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a> & modified by me."
     ]
 
   # Colors for favicons
@@ -182,7 +183,7 @@ disableHugoGeneratorInject = false
   [languages.en]
     title     = "fglo"
     subtitle  = ""
-    weight    = 1
+    weight    = 2 
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.en.menu]
@@ -191,6 +192,22 @@ disableHugoGeneratorInject = false
       name       = "About"
       url        = "about/"
     [[languages.en.menu.main]]
+      identifier = "blog"
+      name       = "Blog"
+      url        = "posts/"
+  
+  [languages.pl]
+    title     = "fglo"
+    subtitle  = ""
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  [languages.pl.menu]
+    [[languages.pl.menu.main]]
+      identifier = "about"
+      name       = "O mnie"
+      url        = "about/"
+    [[languages.pl.menu.main]]
       identifier = "blog"
       name       = "Blog"
       url        = "posts/"
