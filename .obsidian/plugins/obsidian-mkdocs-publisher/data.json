@@ -1,0 +1,72 @@
+{
+  "github": {
+    "user": "fglo",
+    "repo": "fglo.github.io",
+    "branch": "main",
+    "token": "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",
+    "automaticallyMergePR": true,
+    "api": {
+      "tiersForApi": "Github Free/Pro/Team (default)",
+      "hostname": ""
+    },
+    "worflow": {
+      "customCommitMsg": "[PUBLISHER] Merge",
+      "workflowName": ""
+    }
+  },
+  "upload": {
+    "behavior": "fixed",
+    "defaultName": "",
+    "rootFolder": "",
+    "yamlFolderKey": "",
+    "frontmatterTitle": {
+      "enable": false,
+      "key": "title"
+    },
+    "replaceTitle": [],
+    "replacePath": [],
+    "autoclean": {
+      "enable": false,
+      "excluded": []
+    },
+    "folderNote": {
+      "enable": false,
+      "rename": "index.md"
+    },
+    "metadataExtractorPath": ""
+  },
+  "conversion": {
+    "hardbreak": false,
+    "dataview": true,
+    "censorText": [],
+    "tags": {
+      "inline": false,
+      "exclude": [],
+      "fields": []
+    },
+    "links": {
+      "internal": false,
+      "unshared": false,
+      "wiki": false
+    }
+  },
+  "embed": {
+    "attachments": true,
+    "keySendFile": [],
+    "notes": false,
+    "folder": ""
+  },
+  "plugin": {
+    "shareKey": "share",
+    "fileMenu": false,
+    "editorMenu": false,
+    "excludedFolder": [],
+    "copyLink": {
+      "enable": false,
+      "links": "",
+      "removePart": [],
+      "addCmd": false
+    },
+    "noticeError": false
+  }
+}
