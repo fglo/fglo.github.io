@@ -3,7 +3,7 @@
     "user": "fglo",
     "repo": "fglo.github.io",
     "branch": "main",
-    "token": "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",
+    "token": "",
     "automaticallyMergePR": true,
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
